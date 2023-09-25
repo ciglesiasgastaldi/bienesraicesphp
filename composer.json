@@ -1,0 +1,17 @@
+{
+    "name": "cigle/bienes-raices-poo_php_inicio",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ciglesiasgastaldi",
+            "email": "ciglesiasgastaldi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "App\\" : "./clases"
+        }
+    }
+}
